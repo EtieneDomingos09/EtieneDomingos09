@@ -1,5 +1,6 @@
-<!-- Banner ou imagem opcional no topo -->
-<h1 align="center">👋 Olá, eu sou o Etiene Daniel Domingos</h1>
+<!-- Banner de topo -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Etiene%20Daniel%20Domingos&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
 <h3 align="center">Desenvolvedor Web & Cientista de Dados em formação</h3>
 <p align="center"><strong>"Transformando dados em decisões e código em soluções."</strong></p>
 
@@ -13,7 +14,7 @@ Sou desenvolvedor Web e Cientista de Dados em evolução, com o objetivo de me t
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
@@ -57,4 +58,5 @@ Sou desenvolvedor Web e Cientista de Dados em evolução, com o objetivo de me t
 
 ---
 
-💡 *Sempre aprendendo, sempre evoluindo.*
+<!-- Rodapé com efeito -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer)
