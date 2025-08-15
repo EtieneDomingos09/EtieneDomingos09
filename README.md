@@ -11,20 +11,8 @@ Sou desenvolvedor Web e Cientista de Dados em evolução, com o objetivo de me t
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="40"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,git,laravel,python,docker,html,css,js,mysql,linux,vscode,bash" />
 </p>
 
 ---
@@ -43,19 +31,18 @@ Sou desenvolvedor Web e Cientista de Dados em evolução, com o objetivo de me t
 ---
 
 ### 🚀 Projetos em Destaque
-1. [Portal de Provedora de Internet](https://github.com/EtieneDomingos09/Portal-Assemblante)
-2. [Sistema de Gestão Escolar - IPPS Portal](https://github.com/EtieneDomingos09/ipps_portal)
-3. [E-commerce de Loja de Peças de Carro](https://github.com/EtieneDomingos09/loja-pecas)
+1. Portal de Provedora de Internet - https://github.com/EtieneDomingos09/Portal-Assemblante
+2. Sistema de Gestão Escolar - IPPS Portal - https://github.com/EtieneDomingos09/ipps_portal
+3. E-commerce de Loja de Peças de Carro - https://github.com/EtieneDomingos09/loja-pecas
 
 ---
 
 ### 📊 Estatísticas do GitHub
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EtieneDomingos09&show_icons=true&theme=dracula" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtieneDomingos09&layout=compact&theme=dracula" alt="Top Langs" height="165"/>
 </p>
 
 ---
 
-<!-- Rodapé com efeito -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer)
+💡 *Sempre aprendendo, sempre evoluindo.*
