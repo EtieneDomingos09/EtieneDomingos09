@@ -1,6 +1,5 @@
-<!-- Banner de topo -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Etiene%20Daniel%20Domingos&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
-
+<!-- Banner ou imagem opcional no topo -->
+<h1 align="center">👋 Olá, eu sou o Etiene Daniel Domingos</h1>
 <h3 align="center">Desenvolvedor Web & Cientista de Dados em formação</h3>
 <p align="center"><strong>"Transformando dados em decisões e código em soluções."</strong></p>
 
