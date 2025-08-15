@@ -31,7 +31,7 @@ Sou desenvolvedor Web e Cientista de Dados em evolução, com o objetivo de me t
 ---
 
 ### 🚀 Projetos em Destaque
-1. Portal de Provedora de Internet - https://github.com/EtieneDomingos09/Portal-Assemblante
+1. Portal de Provedora de Internet - https://portal-assemblante.vercel.app
 2. Sistema de Gestão Escolar - IPPS Portal - https://github.com/EtieneDomingos09/ipps_portal
 3. E-commerce de Loja de Peças de Carro - https://github.com/EtieneDomingos09/loja-pecas
 
