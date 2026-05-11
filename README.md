@@ -1,34 +1,21 @@
 <!-- Banner ou imagem opcional no topo -->
-<h1 align="center">👋 Olá, eu sou o Etiene Daniel Domingos</h1>
-<h3 align="center">Desenvolvedor Web & Cientista de Dados em formação</h3>
-<p align="center"><strong>"Transformando dados em decisões e código em soluções."</strong></p>
+<h1 align="center">Olá, eu sou o Etiene Daniel Domingos</h1>
+<h3 align="center">Backend Developer | Java</h3>
 
 ---
 
 ### 📌 Sobre mim
-Sou desenvolvedor Web e Cientista de Dados em evolução, com o objetivo de me tornar especialista em ciência de dados e um excelente desenvolvedor full-stack. Atualmente, trabalho com desenvolvimento web e busco constantemente aprender e aplicar novas tecnologias.
+Desenvolvedor Backend focado na construção de aplicações robustas, escaláveis e bem estruturadas. Atualmente aprimoro minhas habilidades em arquitetura de software, APIs REST, bancos de dados e boas práticas de desenvolvimento, buscando evoluir continuamente como engenheiro de software.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,git,laravel,python,docker,html,css,js,mysql,linux,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=php,git,laravel,python,docker,mysql,linux,bash,java" />
 </p>
 
 ---
 
-### 🎯 Objetivos
-- Tornar-me um especialista em ciência de dados.
-- Desenvolver projetos inovadores que unam ciência de dados e desenvolvimento web.
-- Contribuir para projetos open-source e comunidades de tecnologia.
-
----
-
-### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/etiene-daniel-5a0019284/)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:etienedaniel32@gmail.com)
-
----
 
 ### 🚀 Projetos em Destaque
 1. Portal de Provedora de Internet - https://portal-assemblante.vercel.app
