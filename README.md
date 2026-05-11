@@ -1,6 +1,5 @@
 <!-- Banner ou imagem opcional no topo -->
 <h1 align="center">Olá, eu sou o Etiene Daniel Domingos</h1>
-<h3 align="center">Backend Developer | Java</h3>
 
 ---
 
@@ -11,7 +10,7 @@ Desenvolvedor Backend focado na construção de aplicações robustas, escaláve
 
 ### Tecnologias e Ferramentas
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,git,laravel,python,docker,mysql,linux,bash,java,c" />
+<img src="https://skillicons.dev/icons?i=java,c,php,git,laravel,python,docker,mysql,linux,bash," />
 </p>
 
 ---
