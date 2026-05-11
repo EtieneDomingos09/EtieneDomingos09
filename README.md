@@ -11,7 +11,7 @@ Desenvolvedor Backend focado na construção de aplicações robustas, escaláve
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,git,laravel,python,docker,mysql,linux,bash,java" />
+<img src="https://skillicons.dev/icons?i=php,git,laravel,python,docker,mysql,linux,bash,java,c" />
 </p>
 
 ---
@@ -23,4 +23,4 @@ Desenvolvedor Backend focado na construção de aplicações robustas, escaláve
 
 ---
 
-💡 *Sempre aprendendo, sempre evoluindo.*
+💡 *SEMPRE APRENDENDO, SEMPRE EVOLUINDO.*
