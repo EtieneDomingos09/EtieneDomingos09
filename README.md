@@ -16,19 +16,10 @@ Desenvolvedor Backend focado na construção de aplicações robustas, escaláve
 
 ---
 
-
 ### 🚀 Projetos em Destaque
 1. Portal de Provedora de Internet - https://portal-assemblante.vercel.app
 2. Sistema de Gestão Escolar - IPPS Portal - https://github.com/EtieneDomingos09/ipps_portal
 3. E-commerce de Loja de Peças de Carro - https://github.com/EtieneDomingos09/loja-pecas
-
----
-
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EtieneDomingos09&show_icons=true&theme=dracula" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtieneDomingos09&layout=compact&theme=dracula" alt="Top Langs" height="165"/>
-</p>
 
 ---
 
